@@ -11,6 +11,7 @@
 		FB19280E2D68DF7000877438 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB19280D2D68DF7000877438 /* ContentView.swift */; };
 		FB1928102D68DF7100877438 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB19280F2D68DF7100877438 /* Assets.xcassets */; };
 		FB1928132D68DF7100877438 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB1928122D68DF7100877438 /* Preview Assets.xcassets */; };
+		FB95BA502D6CD414009365BD /* mi_segunda_pantalla.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB95BA4F2D6CD414009365BD /* mi_segunda_pantalla.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FB19280D2D68DF7000877438 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FB19280F2D68DF7100877438 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB1928122D68DF7100877438 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FB95BA4F2D6CD414009365BD /* mi_segunda_pantalla.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mi_segunda_pantalla.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				FB19280B2D68DF7000877438 /* mi_primera_app_swiftuiApp.swift */,
+				FB95BA4F2D6CD414009365BD /* mi_segunda_pantalla.swift */,
 				FB19280D2D68DF7000877438 /* ContentView.swift */,
 				FB19280F2D68DF7100877438 /* Assets.xcassets */,
 				FB1928112D68DF7100877438 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB95BA502D6CD414009365BD /* mi_segunda_pantalla.swift in Sources */,
 				FB19280E2D68DF7000877438 /* ContentView.swift in Sources */,
 				FB19280C2D68DF7000877438 /* mi_primera_app_swiftuiApp.swift in Sources */,
 			);
